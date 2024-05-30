@@ -36,4 +36,4 @@ The UMT Email Automation Web Application is designed to automate the process of 
 - **HTML/CSS/JavaScript**: For building the user interface and handling client-side interactions.
 
 ## Conclusion
-The UMT Email Automation Web Application has successfully addressed the inefficiencies in our email communication process, enabling more organized and timely event coordination. Developed by PFC Lee Junseong on behalf of the 2ID HHBN UMT Office, this project demonstrates a significant improvement in our workflow, contributing to better overall communication within our unit.
+The UMT Email Automation Web Application has successfully addressed the inefficiencies in our email communication process, enabling more organized and timely event coordination.
