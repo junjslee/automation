@@ -18,16 +18,15 @@ The manual process of hand-registering participants on paper roster and sending 
 The UMT Email Automation Web Application is designed to automate the process of sending customized emails to event participants. It integrates with Google Sheets to fetch participant data, allows for easy email customization, and supports the inclusion of attachments. Key features include:
 
 - **Google Sheets Integration**: Fetches participant data directly from a specified Google Sheet, ensuring up-to-date information.
-- **Participant Limit Validation**: Ensures the number of participants does not exceed the specified limit and that it cannot be below zero.
-- **Event Name Validation**: Validates that the event name is selected from the available options in the Google Sheet.
+- **Participant Limit Validation**: Ensures the number of participants does not exceed the specified limit by slicing the array of email address list.
+- **Event Name Validation**: The event name is selected from the available options in the Google Sheet, and the participants are selected accordingly.
 - **Email Customization**: Utilizes a WYSIWYG editor (CKEditor) to allow for rich text formatting, including bold, italics, and underline.
-- **Attachment Support**: Provides the option to include attachments in the emails.
-- **Cancel Functionality**: Adds the ability to cancel the email sending process before submission.
+- **Attachment Support**: Provides the option to include flyers, pdf guides, or schedule in the emails.
 
 ## Benefits
 - **Increased Efficiency**: Automating the email sending process significantly reduces the time and effort required to communicate with event participants.
 - **Error Reduction**: Automated data fetching and validation reduce the likelihood of errors in email communication.
-- **Timeliness**: Ensures timely dissemination of information, improving overall communication effectiveness.
+- **Timeliness**: Ensures timely dissemination of information, improving communication effectiveness.
 - **User-Friendly Interface**: The intuitive web interface, complete with text formatting options and validation, enhances user experience.
 
 ## Technologies Used
