@@ -12,7 +12,7 @@
 I developed a web application for the 2ID HHBN UMT Office to automate the process of sending mass emails to participants of various events. This project addresses the need for a more efficient system to manage event communications, ensuring timely and organized dissemination of information.
 
 ## Problem Statement
-The manual process of hand-registering participants on paper roster and sending emails to event participants was time-consuming, prone to errors, and inefficient. Coordinating communications for large groups required significant effort and often led to delays. There was a clear need for a streamlined solution to improve the efficiency and timeliness of our communication processes.
+The manual process of hand-registering participants on paper roster and sending emails to event participants were time-consuming, prone to errors, and inefficient. Coordinating communications for large groups required significant effort and often led to delays. There was a clear need for a streamlined solution to improve the efficiency and timeliness of our communication processes.
 
 ## Solution
 The UMT Email Automation Web Application is designed to automate the process of sending customized emails to event participants. It integrates with Google Sheets to fetch participant data, allows for easy email customization, and supports the inclusion of attachments. Key features include:
